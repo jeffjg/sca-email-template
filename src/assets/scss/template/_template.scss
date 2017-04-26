@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2 !important;
 }
 
+a, p {
+	hyphens: none;
+}
+
 // .container.main .row {
 //   margin-bottom: 10px !important;
 // }
